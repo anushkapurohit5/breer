@@ -6,13 +6,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/anupam-tiwari/fit-d-internship">
-    <img src="http://breerhk.com/assets/img/logo.png" alt="Logo" width="100" height="80">
+    <img src="http://breerhk.com/assets/img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">FIT`D internship Berkeley</h3>
+  <h3 align="center">Breer HK</h3>
 
   <p align="center">
-   Realtime translation using websockets and AWS transcribe
+   Bread to Beer
     <br />
     <br />
     <br />
