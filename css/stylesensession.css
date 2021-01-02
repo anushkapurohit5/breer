@@ -56,8 +56,8 @@ body{
 .breercontainer li{ display: inline-block; vertical-align: top; border-right: 1px solid #ffffff; font-size: 12px;}
 .breercontainer li a{ color: #fff; display: block;  margin: 0px 5px; padding: 0px 5px;}
 .breercontainer li:last-child{ border-right: none; }
-.breercontainer span{ padding: 15px 0px; display: block; color: #fcd900; font-family: "LEMONMILK-Medium"; font-size: 18px;}
-.breercontainer b{color: #fcd900; font-weight: 100;}
+.breercontainer span{ padding: 15px 0px; display: block; color: #00b37f; font-family: "LEMONMILK-Medium"; font-size: 18px;}
+.breercontainer b{color: #00b37f; font-weight: 100;}
 
 .blogLogo{margin-bottom: 10px;}
 .blogLogo a{ vertical-align: top; display: inline-block; margin: 0px 10px 10px; }
