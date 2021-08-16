@@ -1,0 +1,216 @@
+@media screen and (max-width:1920px) {}
+@media screen and (max-width:1600px) {}
+@media screen and (max-width:1366px) {}
+@media screen and (max-width:1280px) {}
+@media screen and (max-width:1169px) {
+  .bottomtext {
+    width: 75%;
+  }
+}
+@media screen and (max-width:991px) {
+  .bottomtext {
+    width: 100%;
+  }
+  h2 {
+    font-size: 30px;
+  }
+  h1 {
+    font-size: 63px;
+  }
+  h1 {
+    font-size: 63px;
+  }
+  .heaingbox {
+    font-size: 50px;
+  }
+  .parallax-container {
+    top: 10%;
+  }
+}
+@media screen and (max-width:767px) {
+  .impactmade ul {
+    width: 80%;
+  }
+  .websiteobx-instera a, .websiteobx a {
+    font-size: 16px;
+  }
+  h1 {
+    font-size: 47px;
+  }
+  .let-text::before, .right-text::before {
+    width: 23%;
+  }
+  h2 {
+    padding-top: 39px;
+    margin: 46px 0 29px;
+  }
+  .heaingbox {
+    font-size: 35px;
+  }
+  #top-image-one {
+    background: url(../images/bg-img-4-mobile.webp) top center no-repeat;
+    background-size: cover;
+  }
+  #top-image-two {
+    background: url(../images/bg-img-5-mobile.webp) top center no-repeat;
+    background-size: cover;
+  }
+  #top-image-three {
+    background: url(../images/bg-img-6-mobile.webp) top center no-repeat;
+    background-size: cover;
+  }
+}
+@media screen and (max-width:640px) {
+  .porduct-img {
+    margin: -473px 0 0 0;
+    width: 175px;
+  }
+  h1 {
+    margin: 78px 0 30px;
+    font-size: 35px;
+  }
+  .bottomtext {
+    font-size: 37px;
+  }
+  .small-heading {
+    margin: 50px auto 20px;
+  }
+  .our_ingredients {
+    margin: 50px 0;
+    display: block;
+    overflow: hidden;
+    clear: both;
+  }
+  .bebx {
+    width: 246px;
+    display: block;
+    margin: 0 auto;
+  }
+  .heaingbox span {
+    height: 50px;
+    width: 50px;
+    padding: 12px 0 0 0;
+    margin: -11px 8px 0 0;
+  }
+  .heaingbox {
+    font-size: 29px;
+  }
+  .incbbox p {
+    text-align: justify;
+  }
+  .incbbox {
+    padding: 10px 0 9px 0;
+    margin-bottom: 27px;
+  }
+  .contect {
+    text-align: center !important;
+    margin: 28px 0 0 0;
+  }
+  .btobgs {
+    display: block;
+    margin: -105px 0 0 0;
+    position: relative;
+    z-index: 0;
+  }
+  .our_ingredients .container, .impactmade {
+    position: relative;
+    z-index: 2;
+  }
+  .impactmade ul li {
+    font-size: 19px;
+    line-height: 59px;
+  }
+  .impactmade h2 {
+    margin: -80px 0 6px 0;
+    padding: 0;
+    border: none;
+  }
+  .footerbox {
+    background: #081930;
+    margin: 38px 0 0 0;
+    text-align: center;
+    padding: 17px 0;
+  }
+  .impactmade ul li:last-child {
+    border-bottom: none;
+  }
+  .websiteobx-instera, .websiteobx {
+    padding-right: 0;
+    width: fit-content;
+    text-align: center;
+    line-height: 40px;
+    display: inline-block;
+    margin: 0 auto;
+    border: none;
+  }
+  .websiteobx-instera a, .websiteobx a {
+    font-size: 27px;
+    line-height: 30px;
+    margin: 10px 0;
+  }
+}
+@media screen and (max-width:479px) {
+  h2 {
+    font-size: 25px;
+  }
+  h1 {
+    margin: 36px 0 0;
+    font-size: 35px;
+  }
+  h2 {
+    padding-top: 25px;
+    margin: 36px 0 20px;
+  }
+  .let-text::before, .right-text::before {
+    top: 9px;
+  }
+  .bred.logo {
+    width: 100% !important;
+    margin: 26px auto 104px;
+  }
+}
+@media screen and (max-width:440px) {
+  h1 {
+    font-size: 29px;
+  }
+  h2 {
+    font-size: 21px;
+  }
+  .right-text, .let-text {
+    line-height: 28px;
+    font-size: 24px;
+  }
+  .let-text::before, .right-text::before {
+    width: 27%;
+  }
+  .heaingbox {
+    font-size: 20px;
+  }
+  .incbbox p {
+    line-height: 24px;
+    color: #081930;
+    clear: both;
+    font-size: 16px;
+  }
+  .contect span {
+    font-size: 15px;
+    float: none;
+    display: block;
+  }
+  .contect span:nth-child(odd) {
+    background: #1eb580;
+  }
+  .impactmade ul {
+    width: 100%;
+  }
+  .footerbox {
+    padding: 17px 0 11px;
+  }
+}
+@media screen and (max-width:380px) {
+  h1 {
+    font-size: 24px;
+  }
+}
+@media screen and (max-width:359px) {}
+@media screen and (max-width:320px) {}
