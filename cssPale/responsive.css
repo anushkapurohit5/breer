@@ -48,15 +48,15 @@
     font-size: 35px;
   }
   #top-image-one {
-    background: url(../images/bg-img-4-mobile.webp) top center no-repeat;
+    background: url(https://breerhk.com/imagesPale/bg-img-4-mobile.webp) top center no-repeat;
     background-size: cover;
   }
   #top-image-two {
-    background: url(../images/bg-img-5-mobile.webp) top center no-repeat;
+    background: url(https://breerhk.com/imagesPale/bg-img-5-mobile.webp) top center no-repeat;
     background-size: cover;
   }
   #top-image-three {
-    background: url(../images/bg-img-6-mobile.webp) top center no-repeat;
+    background: url(https://breerhk.com/imagesPale/bg-img-6-mobile.webp) top center no-repeat;
     background-size: cover;
   }
 }
