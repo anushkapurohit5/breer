@@ -348,7 +348,7 @@ footer .container-fluid p {
   height: 100vh;
 }
 #top-image-one {
-  background: url("../imagesPale/alfree_slider1.jpg") 100% no-repeat;
+  background: url("../imagesPale/bg-img-5.webp") 100% no-repeat;
   /*position:fixed ;*/
   top: 0;
   width: 100%;
@@ -358,7 +358,7 @@ footer .container-fluid p {
   height: 100vh;
 }
 #top-image-two {
-  background: url("../imagesPale/alfree_slider2.jpg") 100% no-repeat;
+  background: url("../imagesPale/bg-img-4.webp") 100% no-repeat;
   /*position:fixed ;*/
   top: 0;
   width: 100%;
@@ -368,7 +368,7 @@ footer .container-fluid p {
   height: 100vh;
 }
 #top-image-three {
-  background: url("../imagesPale/alfree_slider1.jpg") 100% no-repeat;
+  background: url("../imagesPale/bg-img-6.webp") 100% no-repeat;
   /*position:fixed ;*/
   top: 0;
   width: 100%;
